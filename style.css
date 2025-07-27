@@ -40,9 +40,9 @@ html, body {
 .profile {
   text-align: center;
   color: white;
-  margin-top: calc(1rem - 20px); /* dinaikkan 20px */
+  margin-top: calc(1rem - 20px);
   margin-bottom: 0.5rem;
-  transform: translateY(-20px); /* tambahan agar naik */
+  transform: translateY(-40px);
 }
 
 .profile img {
@@ -62,7 +62,7 @@ html, body {
 }
 
 .link {
-  margin-top: calc(15px - 20px); /* dinaikkan 20px */
+  margin-top: calc(15px - 20px);
   transform: translateY(-20px);
   width: 100%;
   display: flex;
